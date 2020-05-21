@@ -1,0 +1,47 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:9c9c1ab403f1aeee61008d1c71648b91:45aea8533dba6306e8a09098adf0ce38:4e21d309831d786ab09374ee9339a209$
+#
+:format=40300
+:texture=runsheet.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+spriteSheetRun0001;0;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0003;191;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0005;382;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0007;573;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0009;764;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0011;955;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0013;1146;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0015;1337;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0017;1528;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0019;1719;843;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0021;0;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0023;191;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0025;382;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0027;573;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0029;764;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0031;955;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0033;1146;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0035;1337;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0037;1528;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0039;1719;662;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0041;0;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0043;191;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0045;382;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0047;573;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0049;764;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0051;955;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0053;1146;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0055;1337;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0057;1528;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0059;1719;481;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0061;0;300;191;181; 0.5;0.5; 0;0;0;0
+spriteSheetRun0063;191;300;191;181; 0.5;0.5; 0;0;0;0

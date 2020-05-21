@@ -1,0 +1,37 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.5
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=wenAttack.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+spriteSheetAttack0001.png;0;1659;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0002.png;350;1659;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0003.png;700;1659;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0005.png;1050;1659;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0007.png;1400;1659;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0009.png;0;1270;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0011.png;350;1270;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0013.png;700;1270;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0015.png;1050;1270;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0017.png;1400;1270;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0019.png;0;881;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0021.png;350;881;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0023.png;700;881;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0025.png;1050;881;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0027.png;1400;881;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0029.png;0;492;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0031.png;350;492;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0033.png;700;492;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0035.png;1050;492;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0037.png;1400;492;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0039.png;0;103;350;389; 0.5;0.5; 0;0;0;0
+spriteSheetAttack0041.png;350;103;350;389; 0.5;0.5; 0;0;0;0
