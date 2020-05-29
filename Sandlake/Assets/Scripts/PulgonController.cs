@@ -7,8 +7,10 @@ public class PulgonController : MonoBehaviour
     Rigidbody2D rb;
     Animator animator;
 
-    float speed = 2;
+    public float speed = 2;
     float timer;
+
+    public AtributosEnemigos atributos;
 
 
 
@@ -20,37 +22,63 @@ public class PulgonController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         timer = 0;
+        atributos = GetComponent<AtributosEnemigos>();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
         timer += Time.deltaTime;
-        if (timer>3)
+
+        if (timer > 3)
         {
             speed *= -1;
             timer = 0;
         }
-
-        if (speed>0)
+        if (atributos.isAlive)
         {
-            animator.Play("pulgonRight");//Asignamos la animación haci la derecha si la velocidad es mayor que 0 vía script
-            //Debug.Log("derecha");
+            
 
-        }
-        else
+            if (speed > 0)
+            {
+                animator.Play("pulgonRight");//Asignamos la animación haci la derecha si la velocidad es mayor que 0 vía script
+                                             //Debug.Log("derecha");
+
+            }
+            else
+            {
+                animator.Play("pulgonLeft");
+               
+
+            }
+        }else
         {
-            animator.Play("pulgonLeft");
-            //Debug.Log("izquierda");
+            
+            if (speed > 0)
+            {
+                animator.Play("PulgonMuerteRight");//Asignamos la animación haci la derecha si la velocidad es mayor que 0 vía script
+                                             //Debug.Log("derecha");
 
+            }
+            else
+            {
+                animator.Play("PulgonMuerteLeft");
+                
+
+            }
+            //animator.SetTrigger("Death");
         }
 
     }
 
     void FixedUpdate()
     {
-        Vector2 position = rb.position;
-        position.x += speed * Time.fixedDeltaTime;
-        rb.MovePosition(position);
+        if (!atributos.golpeado)
+        {
+            Vector2 position = rb.position;
+            position.x += speed * Time.fixedDeltaTime;
+            rb.MovePosition(position);
+        }
     }
 }

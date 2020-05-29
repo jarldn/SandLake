@@ -2,18 +2,21 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/Dronedario/Dronedario.tpsheet
 - Assets/Sprites/Enemigos/pulgon.tpsheet
 - Assets/Sprites/Wen/iddle.tpsheet
 - Assets/Sprites/Wen/runsheet.tpsheet
 - Assets/Sprites/Wen/wenAttack.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/Dronedario/Dronedario.png
 - Assets/Sprites/Enemigos/pulgon.png
 - Assets/Sprites/Wen/iddle.png
 - Assets/Sprites/Wen/runsheet.png
 - Assets/Sprites/Wen/wenAttack.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
 - 
 - 
 - 

@@ -2,12 +2,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.XR.WSA.Input;
 
 public class WenController : MonoBehaviour
 {
+   
     
-    
-    float speed = 4f;
+    public float speed = 5f;
     Rigidbody2D rb;
     Vector2 movement;
     Animator animator;
@@ -16,12 +17,15 @@ public class WenController : MonoBehaviour
 
     bool isAttacking = false;
     bool puedeMover = true;
+
+
     //float direccionX, direccionY;
 
     GameObject attackHit;
 
     void Start()
     {
+
         asignarHash();
         rb = GetComponent<Rigidbody2D>();//accedemos al rigidbody
         animator = GetComponent<Animator>();//accedemos al animator
@@ -58,6 +62,7 @@ public class WenController : MonoBehaviour
             isAttacking = true;
             puedeMover = false;
             animator.SetTrigger(attackHash);
+
             /*attackHit.SetActive(true);*///activamos el attackHit
           
         }
@@ -72,7 +77,10 @@ public class WenController : MonoBehaviour
     {
         if (puedeMover)
         {
-            rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
+            rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);//si puede mover se suman los vectores de input de movimiento y la velocidad
+        }else
+        {
+            rb.MovePosition(rb.position);//si no puede mover se queda donde está, esto es para que no le afecten fuerzas a posteriori en otros estados como el de atacar
         }
     }
 
@@ -90,7 +98,8 @@ public class WenController : MonoBehaviour
     {
         isAttacking = false;
         puedeMover = true;
-        Debug.Log("Acabada");
+       
+
         //attackHit.SetActive(false);
         
        
