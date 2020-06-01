@@ -20,16 +20,19 @@ public class Knockback : MonoBehaviour
 
     private IEnumerator KnockCoroutine(Rigidbody2D enemy)
     {
-       
-        Vector2 forceDirection = enemy.transform.position - transform.position;
-        Vector2 force = forceDirection.normalized * fuerzaKnock;
+        if (enemy.GetComponent<AtributosEnemigos>() != null)
+        {
+            Vector2 forceDirection = enemy.transform.position - transform.position;
+            Vector2 force = forceDirection.normalized * fuerzaKnock;
 
-        enemy.velocity = force;
-        yield return new WaitForSeconds(0.1f);
-
-        
-  
-        enemy.GetComponent<AtributosEnemigos>().golpeadoNo();
+            enemy.velocity = force;
+            yield return new WaitForSeconds(0.1f);
+            if (enemy != null)
+            {
+                enemy.GetComponent<AtributosEnemigos>().golpeado = false;
+            }
+                
+        }
     }
 }
 

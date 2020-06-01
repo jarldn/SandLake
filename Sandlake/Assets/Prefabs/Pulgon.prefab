@@ -119,6 +119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  atributos: {fileID: 0}
 --- !u!50 &8512788504308020528
 Rigidbody2D:
   serializedVersion: 4
@@ -169,5 +170,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 4
+  agua: 0.75
   effect: {fileID: 6582043307068556708, guid: ebfe1fa3197d323439a2c761a583f2fb, type: 3}
   golpeado: 0
+  isAlive: 0
+  atributosPlayer: {fileID: 0}

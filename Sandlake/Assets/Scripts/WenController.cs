@@ -22,7 +22,8 @@ public class WenController : MonoBehaviour
     //float direccionX, direccionY;
 
     GameObject attackHit;
-
+    bool x;
+    bool bloqueo;
     void Start()
     {
 
@@ -50,11 +51,42 @@ public class WenController : MonoBehaviour
 
         if ((!Mathf.Approximately(movement.x, 0.0f) || !Mathf.Approximately(movement.y, 0.0f)) && puedeMover)//si el vector de movimiento no es 0 en su x o su y (y puede mover es verdadera), cambiamos el parametro look para dejar mirando hacia la dirección correcta
         {
-            animator.SetFloat(lookXHash, movement.x);
-            animator.SetFloat(lookYHash, movement.y);
+            //en las siguientes lineas elaboramos un proceso mediante el cual se da preferencia al último eje pulsado cuando los dos ejes son iguales, de forma que cambie la animación si pulsamos las teclas en diagonal y el blend tree no acceda a dos estados a la vez
             
+            if (Math.Abs(movement.x) > Math.Abs(movement.y)) //en cada if medimos el tamaño de x e y en valores absolutos, diferenciando cuál es más grande y cambiando la preferencia si se acede a otro eje después
+            {
+                x = true;
+                bloqueo = false;
+            }else if (Math.Abs(movement.x) < Math.Abs(movement.y))
+            {
+                x = false;
+                bloqueo = false;
+            }
+            else if (Math.Abs(movement.x) == Math.Abs(movement.y)&& bloqueo == false)
+            {
+                x = !x;
+                    bloqueo = true;
+            }
+            animator.SetBool("x", x);
 
+            if (x == true)
+            {
+                animator.SetFloat(lookXHash, movement.x);
+                animator.SetFloat(lookYHash, 0);
+
+            }
+            else
+            {
+                animator.SetFloat(lookXHash, 0);
+                animator.SetFloat(lookYHash, movement.y);
+            }
+
+            //animator.SetFloat(lookXHash, movement.x);
+            //animator.SetFloat(lookYHash, movement.y);
             
+           
+
+
         }
     
         if (Input.GetButtonDown("Attack") && !isAttacking)
@@ -62,6 +94,8 @@ public class WenController : MonoBehaviour
             isAttacking = true;
             puedeMover = false;
             animator.SetTrigger(attackHash);
+
+
 
             /*attackHit.SetActive(true);*///activamos el attackHit
           

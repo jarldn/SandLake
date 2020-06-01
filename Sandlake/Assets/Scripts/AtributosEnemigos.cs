@@ -7,15 +7,20 @@ public class AtributosEnemigos : MonoBehaviour
 {
    
     public int vida;
+    public float agua;
     public GameObject effect;
+    public int damage = 1;
 
     [HideInInspector]//no queremos que esta variable salga en el inspector
     public bool golpeado = false;
     public bool isAlive;
+
+   public  AtributosWen atributosPlayer;
     
     void Start()
     {
         isAlive = true;
+        atributosPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<AtributosWen>();
     }
 
     // Update is called once per frame
@@ -59,7 +64,22 @@ public class AtributosEnemigos : MonoBehaviour
 
     public void DestruirEnemigo ()
     {
+        atributosPlayer.changeWater(agua);
+        
         Destroy(gameObject);
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player") && collision.GetComponent<AtributosWen>() != null)
+        {
+            collision.gameObject.GetComponent<AtributosWen>().changeHealth(-damage);
+
+
+
+
+        }
+    }
+
 
 }
