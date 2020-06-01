@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: c37bd690e0440994a8cff3ecf20b77c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7773047010576400526
+    second: pareja0001.png
+  - first:
+      213: 8533457215477859055
+    second: pareja0002.png
+  - first:
+      213: 8322529984572849590
+    second: pareja0003.png
+  - first:
+      213: 8874883636363873123
+    second: pareja0004.png
+  - first:
+      213: 2668778740621253415
+    second: pareja0005.png
+  - first:
+      213: 6469928821848883682
+    second: pareja0006.png
+  - first:
+      213: 4386407740486706331
+    second: pareja0007.png
+  - first:
+      213: -2689889396053529562
+    second: pareja0008.png
+  - first:
+      213: 5329087367007612680
+    second: pareja0009.png
+  - first:
+      213: 1318736101213591453
+    second: pareja0010.png
+  - first:
+      213: 8891543924461048754
+    second: pareja0011.png
+  - first:
+      213: -8469224486085210329
+    second: pareja0012.png
+  - first:
+      213: 6920208694516454128
+    second: pareja0013.png
+  - first:
+      213: 4388853433113267858
+    second: pareja0014.png
+  - first:
+      213: -3018161544029844811
+    second: pareja0015.png
+  - first:
+      213: 8738509952810130391
+    second: pareja0016.png
+  - first:
+      213: 8080372181789484222
+    second: pareja0020.png
+  - first:
+      213: -4858005470493803111
+    second: pareja0021.png
+  - first:
+      213: 4035434179177691731
+    second: pareja0022.png
+  - first:
+      213: 4167271828894975755
+    second: pareja0023.png
+  - first:
+      213: -2778107051589734118
+    second: pareja0024.png
+  - first:
+      213: 5436782632970826898
+    second: pareja0025.png
+  - first:
+      213: 1620789408860201043
+    second: pareja0026.png
+  - first:
+      213: -461479357904423352
+    second: pareja0027.png
+  - first:
+      213: 8194716783799293851
+    second: pareja0028.png
+  - first:
+      213: 5113623105427610945
+    second: pareja0029.png
+  - first:
+      213: 1171839023757661587
+    second: pareja0030.png
+  - first:
+      213: 7910100727838884770
+    second: pareja0031.png
+  - first:
+      213: -6971652090539995489
+    second: pareja0032.png
+  - first:
+      213: -1262538381231589057
+    second: pareja0033.png
+  - first:
+      213: -1554650660110271018
+    second: pareja0017.png
+  - first:
+      213: -6095092099182853730
+    second: pareja0018.png
+  - first:
+      213: 5503988054304429185
+    second: pareja0019.png
+  - first:
+      213: -8007687665952371604
+    second: pareja0034.png
+  - first:
+      213: -2795378097025539767
+    second: pareja0035.png
+  - first:
+      213: 7913611897220691491
+    second: pareja0036.png
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pareja0001.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8081df92196fdb60800000000000000
+      internalID: 7773047010576400526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0002.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe24d82102eec6670800000000000000
+      internalID: 8533457215477859055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0003.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd70032de09f7370800000000000000
+      internalID: 8322529984572849590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0004.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b456865abe92b70800000000000000
+      internalID: 8874883636363873123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0005.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b18d2ff18690520800000000000000
+      internalID: 2668778740621253415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0006.png
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e14d5cfbfdc9c950800000000000000
+      internalID: 6469928821848883682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0007.png
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ebbb8996afdc30800000000000000
+      internalID: 4386407740486706331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0008.png
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca32f88d79baad0800000000000000
+      internalID: -2689889396053529562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0009.png
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa28fb9b8b4f940800000000000000
+      internalID: 5329087367007612680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0010.png
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d1514f771d4210800000000000000
+      internalID: 1318736101213591453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0011.png
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b39842071c156b70800000000000000
+      internalID: 8891543924461048754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0012.png
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fc9d7a335477a80800000000000000
+      internalID: -8469224486085210329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0013.png
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 841
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f219309425890060800000000000000
+      internalID: 6920208694516454128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0014.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e48fbb1f658ec30800000000000000
+      internalID: 4388853433113267858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0015.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4b5d01165d16d0800000000000000
+      internalID: -3018161544029844811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0016.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db9673e08c654970800000000000000
+      internalID: 8738509952810130391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0020.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a28c00bf332070800000000000000
+      internalID: 8080372181789484222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0021.png
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dff4e63c5e49cb0800000000000000
+      internalID: -4858005470493803111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0022.png
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a3b5c510eb00830800000000000000
+      internalID: 4035434179177691731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0023.png
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0707c336af15d930800000000000000
+      internalID: 4167271828894975755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0024.png
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a117cf90b5e2279d0800000000000000
+      internalID: -2778107051589734118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0025.png
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2943d37dff4537b40800000000000000
+      internalID: 5436782632970826898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0026.png
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350e3da41633e7610800000000000000
+      internalID: 1620789408860201043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0027.png
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8467ee018fe7899f0800000000000000
+      internalID: -461479357904423352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0028.png
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97d9455f7b79b170800000000000000
+      internalID: 8194716783799293851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0029.png
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1e3a0f1d37f640800000000000000
+      internalID: 5113623105427610945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0030.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39514092265334010800000000000000
+      internalID: 1171839023757661587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0031.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 475
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a34564d3b256cd60800000000000000
+      internalID: 7910100727838884770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0032.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 475
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e01cd6c57bf3f90800000000000000
+      internalID: -6971652090539995489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0033.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 475
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39f46f08009a7ee0800000000000000
+      internalID: -1262538381231589057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0017.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddfc462675cc6ae0800000000000000
+      internalID: -1554650660110271018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0018.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e918aea6702e96ba0800000000000000
+      internalID: -6095092099182853730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0019.png
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 658
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1841fc859f7126c40800000000000000
+      internalID: 5503988054304429185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0034.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 475
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cc1ae8e7afed090800000000000000
+      internalID: -8007687665952371604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0035.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 475
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a2e96e62d439d0800000000000000
+      internalID: -2795378097025539767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pareja0036.png
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 475
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f428a71cc2dd60800000000000000
+      internalID: 7913611897220691491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
