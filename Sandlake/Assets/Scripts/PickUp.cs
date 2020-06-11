@@ -19,21 +19,21 @@ public class PickUp : MonoBehaviour
     {
 
         
-        if (GetComponent<Dialogue_ManagerObjetos>().contadorConversacion == 1)
-            Destroy(gameObject); 
+        //if (GetComponent<Dialogue_ManagerObjetos>().contadorConversacion == 1)
+        //    Destroy(gameObject); 
     }
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerStay2D(Collider2D other)
     {
-        if (other.CompareTag("Player") && other is CapsuleCollider2D)
+        if (other.CompareTag("Player") && other is CapsuleCollider2D && GetComponent<Dialogue_ManagerObjetos>().contadorConversacion == 1)
         {
             for (int i = 0; i < inventory.slots.Length; i++)
             {
-                if (inventory.isFull [i] == false)
+                if (inventory.isFull [i] == false )
                 {
                     // ITEM CAN BE ADDED TO INVENTORY !
                     inventory.isFull[i] = true;
                     Instantiate(itemButton, inventory.slots[i].transform, false);
-                    
+                    Destroy(gameObject);
                     break;
                 }
             }
