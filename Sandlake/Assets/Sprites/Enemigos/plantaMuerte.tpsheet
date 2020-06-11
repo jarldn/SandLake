@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.5
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=plantaMuerte.png
+:size=2048x256
+:pivotpoints=enabled
+:borders=disabled
+
+PlantaEnemigo001.png;0;91;167;165; 0.5;0.5; 0;0;0;0
+PlantaEnemigo002.png;167;91;167;165; 0.5;0.5; 0;0;0;0
+PlantaEnemigo003.png;334;91;167;165; 0.5;0.5; 0;0;0;0
+PlantaEnemigo004.png;501;91;167;165; 0.5;0.5; 0;0;0;0
+PlantaEnemigo005.png;668;91;167;165; 0.5;0.5; 0;0;0;0
+PlantaEnemigo006.png;835;91;167;165; 0.5;0.5; 0;0;0;0
+PlantaEnemigo007.png;1002;91;167;165; 0.5;0.5; 0;0;0;0
+PlantaEnemigo008.png;1169;91;167;165; 0.5;0.5; 0;0;0;0

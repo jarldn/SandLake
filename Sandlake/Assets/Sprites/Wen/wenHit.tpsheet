@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://assetstore.unity.com/packages/tools/sprite-management/texturepacker-importer-16641
+#
+# created with Free texture packer v0.6.5
+# http://free-tex-packer.com
+#
+:format=40300
+:texture=wenHit.png
+:size=512x256
+:pivotpoints=enabled
+:borders=disabled
+
+spriteSheetHit0001.png;0;55;117;201; 0.5;0.5; 0;0;0;0
+spriteSheetHit0002.png;117;55;117;201; 0.5;0.5; 0;0;0;0
+spriteSheetHit0003.png;234;55;117;201; 0.5;0.5; 0;0;0;0
+spriteSheetHit0004.png;351;55;117;201; 0.5;0.5; 0;0;0;0

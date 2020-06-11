@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: e433c382cb50ed4449d7171cb4f7780a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1123781631144790899
+    second: piezas superiores_0
+  - first:
+      213: 4475799406233535221
+    second: piezas superiores_1
+  - first:
+      213: -7252023372750536353
+    second: piezas superiores_2
+  - first:
+      213: 1186338399443347408
+    second: piezas superiores_3
+  - first:
+      213: -479393673967709989
+    second: piezas superiores_4
+  - first:
+      213: 6465425815138170112
+    second: piezas superiores_5
+  - first:
+      213: -1517308731339010221
+    second: piezas superiores_6
+  - first:
+      213: 2864525532374178608
+    second: piezas superiores_7
+  - first:
+      213: -1789433431584646711
+    second: piezas superiores_8
+  - first:
+      213: 6207650445238121235
+    second: piezas superiores_9
+  - first:
+      213: -331441435782110339
+    second: piezas superiores_10
+  - first:
+      213: -4506877383648174499
+    second: piezas superiores_11
+  - first:
+      213: 3854462856888627485
+    second: piezas superiores_12
+  - first:
+      213: -2779148422079261091
+    second: piezas superiores_13
+  - first:
+      213: -7727918833558872517
+    second: piezas superiores_14
+  - first:
+      213: -7242076345723051122
+    second: piezas superiores_15
+  - first:
+      213: 81509533566334165
+    second: piezas superiores_16
+  - first:
+      213: -783811857471674553
+    second: piezas superiores_17
+  - first:
+      213: -4759844769832587241
+    second: piezas superiores_18
+  - first:
+      213: -2910469917029925642
+    second: piezas superiores_19
+  - first:
+      213: 8623524056016446498
+    second: piezas superiores_20
+  - first:
+      213: 8981457429449760791
+    second: piezas superiores_21
+  - first:
+      213: 4820517548806091804
+    second: piezas superiores_22
+  - first:
+      213: 560383153073521405
+    second: piezas superiores_23
+  - first:
+      213: 2409897585451785466
+    second: piezas superiores_24
+  - first:
+      213: 8236867251539739534
+    second: piezas superiores_25
+  - first:
+      213: 5931825265012816377
+    second: piezas superiores_26
+  - first:
+      213: 4018555203545662648
+    second: piezas superiores_27
+  - first:
+      213: 1718817801985410288
+    second: piezas superiores_28
+  - first:
+      213: -777787699685631400
+    second: piezas superiores_29
+  - first:
+      213: -2737665803017458606
+    second: piezas superiores_30
+  - first:
+      213: -2222447652325211240
+    second: piezas superiores_31
+  - first:
+      213: 7678191013664803844
+    second: piezas superiores_32
+  - first:
+      213: 6592316175517931337
+    second: piezas superiores_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piezas superiores_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7219
+        width: 1160
+        height: 796
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -580, y: -398}
+        - {x: -259, y: 366}
+        - {x: 573, y: 398}
+        - {x: 102, y: -222}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8e718079789f00800000000000000
+      internalID: 1123781631144790899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_1
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 7457
+        width: 1730
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -865, y: -197}
+        - {x: -865, y: 197}
+        - {x: 718, y: 194}
+        - {x: 861, y: 33}
+        - {x: 865, y: -197}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2447e98db3d1e30800000000000000
+      internalID: 4475799406233535221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_2
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1387
+        width: 5682
+        height: 6788
+      alignment: 9
+      pivot: {x: 0.24367546, y: 0.24239959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 267, y: -3394}
+        - {x: -886, y: -2644}
+        - {x: -2841, y: -2282}
+        - {x: -2841, y: -1753}
+        - {x: -2460, y: -1531}
+        - {x: -2274, y: -1185}
+        - {x: -1355, y: -1020}
+        - {x: 672, y: 161}
+        - {x: 1412, y: 950}
+        - {x: 2570, y: 3311}
+        - {x: 2831, y: 3394}
+        - {x: 2841, y: -3394}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51cf545a23ab5b90800000000000000
+      internalID: -7252023372750536353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6621
+        width: 1802
+        height: 808
+      alignment: 9
+      pivot: {x: 0.459538, y: 0.052910835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -901, y: -404}
+        - {x: -867, y: -4}
+        - {x: -626, y: 401}
+        - {x: 901, y: 404}
+        - {x: 901, y: -404}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e9322d78b67010800000000000000
+      internalID: 1186338399443347408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_4
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 7037
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d5935ef9d859f0800000000000000
+      internalID: -479393673967709989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 6350
+        height: 6685
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3175, y: -3342.5}
+        - {x: -3175, y: 3342.5}
+        - {x: -2760, y: 2832.5}
+        - {x: -2791, y: 994.5}
+        - {x: -2187, y: 255.5}
+        - {x: -1953, y: -2133.5}
+        - {x: 1764, y: -2485.5}
+        - {x: 3175, y: -3342.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00573f8068ec9b950800000000000000
+      internalID: 6465425815138170112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_6
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 6630
+        width: 552
+        height: 324
+      alignment: 9
+      pivot: {x: 0.47573322, y: 1.7609577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f80f57fbf61fae0800000000000000
+      internalID: -1517308731339010221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 5354
+        width: 707
+        height: 1101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b13377bc6d0c720800000000000000
+      internalID: 2864525532374178608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_8
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 5355
+        width: 1340
+        height: 1059
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9503956c7aa27e0800000000000000
+      internalID: -1789433431584646711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_9
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 7549
+        width: 1693
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b63eb031062650800000000000000
+      internalID: 6207650445238121235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_10
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 7505
+        width: 274
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73ac5c25cb766bf0800000000000000
+      internalID: -331441435782110339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_11
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 7601
+        width: 980
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9865e5ea5471c0800000000000000
+      internalID: -4506877383648174499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_12
+      rect:
+        serializedVersion: 2
+        x: 5914
+        y: 7522
+        width: 193
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11b8c8eb8dcd7530800000000000000
+      internalID: 3854462856888627485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_13
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 7747
+        width: 603
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d0e31c3b7e69d0800000000000000
+      internalID: -2779148422079261091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_14
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 6610
+        width: 711
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1ca0e3cae0c490800000000000000
+      internalID: -7727918833558872517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_15
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 6992
+        width: 763
+        height: 548
+      alignment: 9
+      pivot: {x: 0.5040304, y: 0.2837814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e832be80fe9fe7b90800000000000000
+      internalID: -7242076345723051122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_16
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 6699
+        width: 674
+        height: 589
+      alignment: 9
+      pivot: {x: 0.4940305, y: 0.27341512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4770a2d74912100800000000000000
+      internalID: 81509533566334165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_17
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 6995
+        width: 351
+        height: 426
+      alignment: 9
+      pivot: {x: 0.40018892, y: 0.30129474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74769a8b4475f15f0800000000000000
+      internalID: -783811857471674553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_18
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 6562
+        width: 663
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5169028, y: 0.41930044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b02c8662a1fdb0800000000000000
+      internalID: -4759844769832587241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3876
+        width: 2706
+        height: 1402
+      alignment: 9
+      pivot: {x: 0.56430835, y: 0.8421727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 321, y: 15}
+        - {x: -382, y: -421}
+        - {x: -828, y: -577}
+        - {x: -1146, y: -557}
+        - {x: -1312, y: -293}
+        - {x: -1350, y: 693}
+        - {x: 1353, y: 701}
+        - {x: 1301, y: 380}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc78f1e70feb97d0800000000000000
+      internalID: -2910469917029925642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_20
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1001
+        width: 4408
+        height: 1545
+      alignment: 9
+      pivot: {x: 0.42911568, y: 0.3553105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2152, y: -522.5}
+        - {x: -2162, y: 733.5}
+        - {x: 841, y: 455.5}
+        - {x: 1466, y: 68.5}
+        - {x: 2154, y: -343.5}
+        - {x: 2154, y: -754.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22465e68079eca770800000000000000
+      internalID: 8623524056016446498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_21
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2953
+        width: 894
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -445, y: -296}
+        - {x: -444, y: 510}
+        - {x: 401, y: 488}
+        - {x: 418, y: -312}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71065af32fb84ac70800000000000000
+      internalID: 8981457429449760791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_22
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 3895
+        width: 385
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14bf12ab2be5e240800000000000000
+      internalID: 4820517548806091804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 4117
+        width: 219
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df28f093281e6c700800000000000000
+      internalID: 560383153073521405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_24
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3222
+        width: 785
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcdce5f51da17120800000000000000
+      internalID: 2409897585451785466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_25
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 3735
+        width: 2804
+        height: 1385
+      alignment: 9
+      pivot: {x: 0.48316264, y: 0.39153847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -461, y: -433.5}
+        - {x: -1402, y: -369.5}
+        - {x: -1402, y: 277.5}
+        - {x: -442, y: 690.5}
+        - {x: 1361, y: 679.5}
+        - {x: 1402, y: 81.5}
+        - {x: 361, y: -563.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83031edf1b3f4270800000000000000
+      internalID: 8236867251539739534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_26
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 3735
+        width: 225
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b6ce76a3125250800000000000000
+      internalID: 5931825265012816377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_27
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 3883
+        width: 379
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186.5, y: -238}
+        - {x: -189.5, y: -113}
+        - {x: -65.5, y: -12}
+        - {x: -32.5, y: 235}
+        - {x: 178.5, y: 235}
+        - {x: 139.5, y: -230}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b403a99aa6c4c730800000000000000
+      internalID: 4018555203545662648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_28
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 5155
+        width: 3750
+        height: 1388
+      alignment: 9
+      pivot: {x: 0.5600224, y: 0.163805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1228, y: -444}
+        - {x: 32, y: -686}
+        - {x: -1851, y: -343}
+        - {x: -1828, y: 128}
+        - {x: 701, y: 223}
+        - {x: 1552, y: 688}
+        - {x: 1793, y: 694}
+        - {x: 1780, y: 2}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f445f82fa77ad710800000000000000
+      internalID: 1718817801985410288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_29
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 6133
+        width: 1044
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ad191453eb435f0800000000000000
+      internalID: -777787699685631400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_30
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 6273
+        width: 630
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce869f47bd10ad0800000000000000
+      internalID: -2737665803017458606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_31
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 7014
+        width: 479
+        height: 558
+      alignment: 9
+      pivot: {x: 0.5124068, y: 0.4117961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893414f92a74821e0800000000000000
+      internalID: -2222447652325211240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_32
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 4374
+        width: 440
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c461fcb0a6e8a60800000000000000
+      internalID: 7678191013664803844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piezas superiores_33
+      rect:
+        serializedVersion: 2
+        x: 6541
+        y: 0
+        width: 1651
+        height: 1332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947dec052ac9c7b50800000000000000
+      internalID: 6592316175517931337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

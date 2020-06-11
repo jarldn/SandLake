@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 2d640e687b6bb714587511bcc463467a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6475169974201212350
+    second: "S\xEDmbolo 10002"
+  - first:
+      213: 8714419926694207909
+    second: "S\xEDmbolo 10004"
+  - first:
+      213: 8837598569176391346
+    second: "S\xEDmbolo 10006"
+  - first:
+      213: 8619660274462639561
+    second: "S\xEDmbolo 10008"
+  - first:
+      213: 4262959334392926778
+    second: "S\xEDmbolo 10010"
+  - first:
+      213: -8121670469330515333
+    second: "S\xEDmbolo 10012"
+  - first:
+      213: 4880297934624009964
+    second: "S\xEDmbolo 10014"
+  - first:
+      213: 7194353532332101435
+    second: "S\xEDmbolo 10018"
+  - first:
+      213: -1919031933855849856
+    second: "S\xEDmbolo 10020"
+  - first:
+      213: 2473886320871709735
+    second: "S\xEDmbolo 10022"
+  - first:
+      213: -7782778074595555796
+    second: "S\xEDmbolo 10024"
+  - first:
+      213: 6937245512697689264
+    second: "S\xEDmbolo 10026"
+  - first:
+      213: -4739597961218934399
+    second: "S\xEDmbolo 10028"
+  - first:
+      213: -2281222570525648029
+    second: "S\xEDmbolo 10030"
+  - first:
+      213: 4522284205772430813
+    second: "S\xEDmbolo 10034"
+  - first:
+      213: -6223204970101873348
+    second: "S\xEDmbolo 10036"
+  - first:
+      213: 3688843013170785791
+    second: "S\xEDmbolo 10038"
+  - first:
+      213: -8234301391701681714
+    second: "S\xEDmbolo 10040"
+  - first:
+      213: -1898703913892602154
+    second: "S\xEDmbolo 10042"
+  - first:
+      213: 3332954303346908854
+    second: "S\xEDmbolo 10044"
+  - first:
+      213: 6456168441495077173
+    second: "S\xEDmbolo 10046"
+  - first:
+      213: -3152123645894622177
+    second: "S\xEDmbolo 10047"
+  - first:
+      213: 1845484151895391731
+    second: planta_0
+  - first:
+      213: -3002157054718190780
+    second: planta_1
+  - first:
+      213: -2998058373754650577
+    second: planta_2
+  - first:
+      213: 157282193818059435
+    second: planta_3
+  - first:
+      213: -7895147685100029701
+    second: planta_4
+  - first:
+      213: 9072541713317694148
+    second: planta_5
+  - first:
+      213: 7646276629923676620
+    second: planta_6
+  - first:
+      213: 5577302424968935849
+    second: planta_7
+  - first:
+      213: 7432820060714467950
+    second: planta_8
+  - first:
+      213: 3693149571650417989
+    second: planta_9
+  - first:
+      213: -4238748015660853524
+    second: planta_10
+  - first:
+      213: 4640150696406263126
+    second: planta_11
+  - first:
+      213: 6115037514987810212
+    second: planta_12
+  - first:
+      213: 6005494235376151329
+    second: planta_13
+  - first:
+      213: 2088924381203441953
+    second: planta_14
+  - first:
+      213: 338354692424396264
+    second: planta_15
+  - first:
+      213: -5174010969360562751
+    second: planta_16
+  - first:
+      213: -7358744750152996069
+    second: planta_17
+  - first:
+      213: 2624721159593784323
+    second: planta_18
+  - first:
+      213: 2132896602644247033
+    second: planta_19
+  - first:
+      213: 650914761886056820
+    second: planta_20
+  - first:
+      213: -8568590896324849837
+    second: planta_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10002"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242267327339326a0800000000000000
+      internalID: -6475169974201212350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10004"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a13a90c6dfe870800000000000000
+      internalID: 8714419926694207909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10006"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be5247331575aa70800000000000000
+      internalID: 8837598569176391346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10008"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c544e7c95f2f9770800000000000000
+      internalID: 8619660274462639561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10010"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a321d62bde2192b30800000000000000
+      internalID: 4262959334392926778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10012"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a46c41db70a4f80800000000000000
+      internalID: -8121670469330515333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10014"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee26575d1d4ab340800000000000000
+      internalID: 4880297934624009964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10018"
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 343
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f4b3b9b6a77d360800000000000000
+      internalID: 7194353532332101435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10020"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08224e5af9a3e55e0800000000000000
+      internalID: -1919031933855849856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10022"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c914a6082055220800000000000000
+      internalID: 2473886320871709735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10024"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26880a73940ef390800000000000000
+      internalID: -7782778074595555796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10026"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4b408e90c064060800000000000000
+      internalID: 6937245512697689264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10028"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189316704c0993eb0800000000000000
+      internalID: -4739597961218934399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10030"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b173698287750e0800000000000000
+      internalID: -2281222570525648029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10034"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddddc6a668162ce30800000000000000
+      internalID: 4522284205772430813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10036"
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 174
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35e1a83d0cb2a9a0800000000000000
+      internalID: -6223204970101873348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10038"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffde9381d27613330800000000000000
+      internalID: 3688843013170785791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10040"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9dd1ee282e9bd80800000000000000
+      internalID: -8234301391701681714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10042"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de99ce99d276a5e0800000000000000
+      internalID: -1898703913892602154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10044"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1a97b748014e20800000000000000
+      internalID: 3332954303346908854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10046"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531c665cdfae89950800000000000000
+      internalID: 6456168441495077173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 10047"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5
+        width: 256
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f148756ae386144d0800000000000000
+      internalID: -3152123645894622177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 7fb5b93d19cb11f41834767a0c61eec1
+  - enabled: 1
+    path: Assets/Scenes/Start Game.unity
+    guid: 0aa2d2fc7a793c34a89b24057eb8552b
+  - enabled: 1
+    path: Assets/Scenes/EscenaPruebaJav.unity
+    guid: 7a4fac1300ee6514eaef1f31b4675a65
+  - enabled: 0
+    path: Assets/Scenes/EscenaPruebaJav 2.unity
+    guid: 2036bffa4cfa3c246868550508479a6d
+  - enabled: 1
+    path: Assets/Scenes/EscenaPruebaJav 1.unity
+    guid: ce8b2819d8f00cd48b1c1df2dd99542b
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 59e581e9de9f2f1478ea52cc235046b4
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 54b37e4a1f49f844ca762934c75f5bbf,
+      type: 2}

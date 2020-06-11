@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: e68e210ac9360294280b5188f0bd7ea3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7709217661436336746
+    second: Planta03_0
+  - first:
+      213: 8892787033160228892
+    second: Planta03_1
+  - first:
+      213: 2964791886994582508
+    second: Planta03_2
+  - first:
+      213: 3597771749985256583
+    second: Planta03_3
+  - first:
+      213: 8796896846239378663
+    second: Planta03_4
+  - first:
+      213: -1217490484641974489
+    second: Planta03_5
+  - first:
+      213: 9147074790195052151
+    second: Planta03_6
+  - first:
+      213: 4431616795806854731
+    second: Planta03_7
+  - first:
+      213: -1515096767797408363
+    second: Planta03_8
+  - first:
+      213: -4118025418810579058
+    second: Planta03_9
+  - first:
+      213: -2035173274897717635
+    second: Planta03_10
+  - first:
+      213: -9132454507780187878
+    second: Planta03_11
+  - first:
+      213: 179570812773527074
+    second: Planta03_12
+  - first:
+      213: -2132569646491647444
+    second: Planta03_0
+  - first:
+      213: -7773783715858752316
+    second: Planta03_1
+  - first:
+      213: 4324600338779169356
+    second: Planta03_2
+  - first:
+      213: -8064726072333776078
+    second: Planta03_3
+  - first:
+      213: 8306649261213176260
+    second: Planta03_4
+  - first:
+      213: 965748878192545741
+    second: Planta03_5
+  - first:
+      213: 5535325356611719466
+    second: Planta03_6
+  - first:
+      213: 4003785226997904126
+    second: Planta03_7
+  - first:
+      213: 4125455050225677931
+    second: Planta03_8
+  - first:
+      213: 7245954718956650979
+    second: Planta03_9
+  - first:
+      213: -3730004017144559295
+    second: Planta03_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planta03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22c51294379762e0800000000000000
+      internalID: -2132569646491647444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1758
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd58fc5e8fd1490800000000000000
+      internalID: -7773783715858752316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_2
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1758
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42677c6811140c30800000000000000
+      internalID: 4324600338779169356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc6bfad56541090800000000000000
+      internalID: -8064726072333776078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1468
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15f581e75274370800000000000000
+      internalID: 8306649261213176260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_5
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1468
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf06eaec77076d00800000000000000
+      internalID: 965748878192545741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1178
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21dd0d951d61dc40800000000000000
+      internalID: 5535325356611719466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1178
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2ba24737d409730800000000000000
+      internalID: 4003785226997904126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_8
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1178
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66fa85b28f804930800000000000000
+      internalID: 4125455050225677931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e10af91d6dce8460800000000000000
+      internalID: 7245954718956650979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planta03_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 888
+        width: 578
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149815bdb1d5c3cc0800000000000000
+      internalID: -3730004017144559295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
